@@ -1,5 +1,10 @@
 # Scrip.it 
 
+* To update from pyrocms core, use "git pull" while in "pyrocms"
+* To push new updates, use "git push spec 2.2/master"
+* To pull new updates, use "git pull" from "scrip.it"
+
+
 # PyroCMS Community Edition
 
 [![Build Status](https://secure.travis-ci.org/pyrocms/pyrocms.png?branch=2.2/develop)](https://travis-ci.org/pyrocms/pyrocms)
